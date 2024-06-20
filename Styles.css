@@ -1,12 +1,13 @@
 h1{
-    
+    font-size: 109%;
     color: red;
-    margin: 100px 100px;
+    margin: 100px 370px;
 }
 p{
     color: green;
-    margin: 50px 50px;
+    margin: 50px 300px;
 }
-a{
-    margin:208px;
+
+address{
+    margin: 350px;
 }
