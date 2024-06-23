@@ -1,13 +1,33 @@
 h1{
-    font-size: 109%;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 200%;
     color: red;
-    margin: 100px 370px;
+    padding: 20px;
+    
 }
 p{
+    text-align: center;
     color: green;
-    margin: 50px 300px;
+    background-color: rgb(221, 243, 210);
+    padding: 25px;
 }
 
 address{
     margin: 350px;
 }
+body{
+    background-color: rgb(188, 170, 232);
+}
+#HL{
+   
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100px;           
+    background-color: #f8f8f8; 
+    border: 1px solid #ccc;  
+    text-align: center;
+
+}
+
