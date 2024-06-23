@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color:red;
+    background-color: bisque;
+}
+p{
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100px;           
+    background-color: #0f97bc; 
+    border: 1px solid #030c0e;  
+    text-align: center;
+}
